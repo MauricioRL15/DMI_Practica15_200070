@@ -24,10 +24,10 @@ Fecha entrega: 06 de noviembre del 2023
 ### Imágenes de la APP
 
 <div style="text-align: center">
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/364585ffa07e6312def8cfc4c1ae9acea1da2cca/changePortrait.png?raw=true" alt="Imagen 1"/>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/364585ffa07e6312def8cfc4c1ae9acea1da2cca/delete.png?raw=true" alt="Imagen 2"/>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/364585ffa07e6312def8cfc4c1ae9acea1da2cca/findOneByEmail.png?raw=true" alt="Imagen 3"/>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/364585ffa07e6312def8cfc4c1ae9acea1da2cca/findOneByID.png?raw=true" alt="Imagen 4"/>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/364585ffa07e6312def8cfc4c1ae9acea1da2cca/newplayer.png?raw=true" alt="Imagen 5"/>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/364585ffa07e6312def8cfc4c1ae9acea1da2cca/changePortrait.png?raw=true" alt="Imagen 1"/><br>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/364585ffa07e6312def8cfc4c1ae9acea1da2cca/delete.png?raw=true" alt="Imagen 2"/><br>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/364585ffa07e6312def8cfc4c1ae9acea1da2cca/findOneByEmail.png?raw=true" alt="Imagen 3"/><br>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/364585ffa07e6312def8cfc4c1ae9acea1da2cca/findOneByID.png?raw=true" alt="Imagen 4"/><br>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/364585ffa07e6312def8cfc4c1ae9acea1da2cca/newplayer.png?raw=true" alt="Imagen 5"/><br>
     <img src="https://github.com/MauricioRL15/Imagenes/blob/364585ffa07e6312def8cfc4c1ae9acea1da2cca/update.png?raw=true" alt="Imagen 6"/>
 </div>
