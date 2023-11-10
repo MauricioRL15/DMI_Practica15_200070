@@ -13,7 +13,9 @@ Materia: Desarrollo Móvil Integral. <br><br>
 Alumno: Mauricio Ramírez López <br><br>
 Matrícula: 200070 <br><br>
 Práctica 15: Comienzo de la API para el videojuego. <br><br>
-Descripción: Continuamos con la aplicación, en esta parte agregamos archivos, con los cuales obtuvimos que saliera el poster al precionar sobre la pelicula o serie, su calificacion sobre 10, y los actores que participan en ella. Es una aplicación desarrollada en Flutter y es una app centrada en la visualización de peliculas y series populares. Permite a los usuarios acceder a una amplia gama de series televisivas y explorar contenido variado y actualizado. Con una interfaz amigable e intuitiva, los usuarios pueden descubrir información relevante sobre cada serie, incluyendo su título, calificación promedio, sinopsis, fecha de lanzamiento y géneros asociados. Además, la aplicación ofrece la posibilidad de ver los pósters de las series para obtener una vista previa visual. Al brindar acceso rápido a estas series populares, la app se convierte en un hub digital para entusiastas del entretenimiento, facilitando la elección de series para ver y mantenerse al día con las últimas tendencias.<br><br>
+Descripción: 
+Creamos un código donde hicimos un conjunto de funciones para manejar operaciones relacionadas con jugadores en una nuestro videojuego. Cada función corresponde a una operación específica que puede llevarse a cabo sobre los datos de un jugador en el sistema. Cada función toma dos parámetros (rq y rs), que representan la solicitud (request) y la respuesta (response) en un entorno de servidor. Las funciones registran mensajes descriptivos en la consola sobre la acción que se está llevando a cabo y responden con un mensaje indicando la acción realizada. Todo forma parte de un API que gestiona jugadores, respondiendo a diferentes tipos de solicitudes como creación, búsqueda, actualización, cambio de foto de perfil y eliminación de jugadores.
+<br><br>
 Fecha entrega: 06 de noviembre del 2023
 </div>
 
